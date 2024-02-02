@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 //	Runtime		2ms		Beats	72.01%	of users with Go
-//	Memory		2.30MB	Beats	96.01%	of users with Go
+//	Memory		2.30MB		Beats	96.01%	of users with Go
 func merge(nums1 []int, m int, nums2 []int, n int) {
 	initBound := m
 	for i := 0; i < n; i++ {

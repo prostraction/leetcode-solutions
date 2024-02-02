@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 //	Runtime		1ms		Beats	70.70%	of users with Go
-//	Memory		2.19MB	Beats	73.46%	of users with Go
+//	Memory		2.19MB		Beats	73.46%	of users with Go
 
 func removeElement(nums []int, val int) int {
 	j := 0

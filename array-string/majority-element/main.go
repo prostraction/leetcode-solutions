@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 //	Runtime		9ms		Beats	93.63%	of users with Go
-//	Memory		6.19MB	Beats	77.94%	of users with Go
+//	Memory		6.19MB		Beats	77.94%	of users with Go
 
 // Boyer–Moore majority vote algorithm
 func majorityElement(nums []int) int {

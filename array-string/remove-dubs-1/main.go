@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // 	Runtime		9ms		Beats	59.66%	of users with Go
-//	Memory		4.46MB	Beats	78.06%	of users with Go
+//	Memory		4.46MB		Beats	78.06%	of users with Go
 
 func removeDuplicates(nums []int) int {
 	prevVal := -101
